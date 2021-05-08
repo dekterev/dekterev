@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - Backend: Node.js, Express, MongoDB, Mongoose.
 
 ## Contact with me:
-tg: [@dekterev](https://telegram.org/dekterev)
+tg: [@dekterev](https://t.me/dekterev)
