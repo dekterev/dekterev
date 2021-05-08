@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ## Contact with me:
-[tg: @dekterev](https://telegram.org/dekterev)
+tg: [@dekterev](https://telegram.org/dekterev)
