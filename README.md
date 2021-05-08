@@ -1,5 +1,6 @@
-![](https://github.com/dekterev/dekterev/blob/main/Green%20and%20White%20Technology%20LinkedIn%20Banner.png)
+![](https://github.com/dekterev/dekterev/raw/main/Green%20and%20White%20Technology%20LinkedIn%20Banner.png)
 ### Hi, I'm Full Stack Developer. 👋
+You can see my resume [here](http://bit.ly/frontendCV)
 
 <!--
 **dekterev/dekterev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
