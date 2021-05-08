@@ -16,5 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+## Tech stack:
+- Frontend: JavaScript, HBS, React, Redux, Material-Ui, AntD.
+- Backend: Node.js, Express, MongoDB, Mongoose.
+
 ## Contact with me:
 tg: [@dekterev](https://telegram.org/dekterev)
