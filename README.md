@@ -1,5 +1,5 @@
 ![](https://github.com/dekterev/dekterev/raw/main/Green%20and%20White%20Technology%20LinkedIn%20Banner.png)
-### Hi, I'm Full Stack Developer. 👋
+### Hi, I'm Frontend Developer. 👋
 You can see my resume [here](http://bit.ly/frontendCV)
 
 <!--
