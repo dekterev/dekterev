@@ -1,6 +1,6 @@
 ![](https://github.com/dekterev/dekterev/raw/main/Green%20and%20White%20Technology%20LinkedIn%20Banner.png)
 ### Hi, I'm Frontend Developer. 👋
-You can see my resume [here](http://bit.ly/frontendCV)
+You can see my resume [here](https://bit.ly/front-end-cv)
 
 <!--
 **dekterev/dekterev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,10 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-## Tech stack:
-- Frontend: JavaScript, HBS, React, Redux, Material-Ui, AntD.
-- Backend: Node.js, Express, MongoDB, Mongoose.
 
 ## Contact with me:
 tg: [@dekterev](https://t.me/dekterev)
